@@ -1,5 +1,5 @@
 Name:Jasmine P.Ellson
-Course:BS INformation Technology
+Course:BS Information Technology
 Year and Section:BSIT 2-C
 
 About Me:
@@ -15,3 +15,5 @@ My Skills:
 Basic computer skills
 HTML and CSS fundamentals
 Basic programming knowledge
+
+Temporary comit undo for undo demonstration
