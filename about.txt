@@ -1,4 +1,4 @@
-Name:Jasmine P.Ellson
+mName:Jasmine P.Ellson
 Course:BS INformation Technology
 Year and Section:BSIT 2-C
 
@@ -10,3 +10,8 @@ To improve my computer skills and become a successful IT professional
 
 My Hobbies:
 Reading, listening to music, and learning new computer skills
+
+My Skills:
+Basic computer skills
+HTML and CSS fundamentals
+Basic programming knowledge
