@@ -1,4 +1,4 @@
-mName:Jasmine P.Ellson
+Name:Jasmine P.Ellson
 Course:BS INformation Technology
 Year and Section:BSIT 2-C
 
